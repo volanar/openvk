@@ -9,7 +9,7 @@
 - [ ] Audio
 - [x] User page
 - [ ] Groups and communities
-- [ ] Friends
+- [x] Friends
 - [ ] Videos
 - [x] Settings
 - [ ] Albums with photos
