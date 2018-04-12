@@ -8,7 +8,7 @@
 - [ ] Comments for posts
 - [ ] Audio
 - [x] User page
-- [ ] Groups and communities
+- [x] Groups and communities
 - [x] Friends
 - [ ] Videos
 - [x] Settings
@@ -18,6 +18,6 @@
 - [ ] Personal messages and conversations
 - [ ] Admin panel
 - [ ] The script for installing and configuring OpenVK
-- [ ] Theme support
+- [x] Theme support
 - [ ] Plugin support
 - [x] *Nice sprites ~~and scary monsters~~ ever :)*
