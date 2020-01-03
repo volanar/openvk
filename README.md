@@ -5,17 +5,17 @@
 - [x] Multilanguage (*at the moment the project is translated into three languages \[English, Russian, Ukrainian\]*)
 - [ ] AJAX
 - [x] Posts
-- [ ] Comments for posts
+- [x] Comments for posts
 - [ ] Audio
 - [x] User page
 - [x] Groups and communities
 - [x] Friends
-- [ ] Videos
+- [x] Videos
 - [x] Settings
-- [ ] Albums with photos
+- [x] Albums with photos
 - [ ] Notifications (*when we implement AJAX-loading*)
-- [ ] Page with last posts
-- [ ] Personal messages and conversations
+- [x] Page with last posts
+- [x] Personal messages and conversations
 - [ ] Admin panel
 - [ ] The script for installing and configuring OpenVK
 - [x] Theme support
