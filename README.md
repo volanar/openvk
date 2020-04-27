@@ -3,4 +3,6 @@
 
 This project was made fundamentally for the Russian audience.
 ## TODO
-The list has been moved. The list is now available via this link: https://github.com/openvk/openvk/projects/1?fullscreen=true
+~~A list has been moved. A list is now available via this link: https://github.com/openvk/openvk/projects/1?fullscreen=true~~
+
+Unfortunately, a list has moved again, and ordinary people can't access it now. An archive list is still open by the link above, but it will not be updated.
